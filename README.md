@@ -1,4 +1,4 @@
 # RoleBot
-A discord bot for assigning roles ro server members
+A discord bot for assigning roles to server members
 
 Set configs in `config.json`
